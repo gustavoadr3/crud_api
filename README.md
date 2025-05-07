@@ -20,4 +20,4 @@ Projeto de CRUD completo para cadastro de produtos, utilizando uma API com FastA
 ### Passo a passo:
 git clone https://github.com/gustavoadr3/crud_api.git
 cd crud_api
-docker-compose up --build
+docker-compose up 
